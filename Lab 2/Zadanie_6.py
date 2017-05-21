@@ -1,0 +1,6 @@
+x1=float(input('Координата х1: '))
+y1=float(input('Координата у1: '))
+x2=float(input('Координата х2: '))
+y2=float(input('Координата у2: '))
+x3=float(input('Координата х3: '))
+y3=float(input('Координата у3: '))
